@@ -1,32 +1,50 @@
-# EDA-FCC-Complaints-Analysis
-Exploratory Data Analysis of FCC Consumer Complaints using Python, Pandas, Matplotlib, and Seaborn.
-# FCC Consumer Complaints – Exploratory Data Analysis
+# FCC Consumer Complaints Analysis
 
-This project performs an exploratory data analysis (EDA) on the FCC Consumer Complaints dataset using Python.
+This project performs an exploratory data analysis (EDA) on 50,000+ FCC consumer complaint records using Python.
 
-The goal of this analysis is to explore patterns in consumer complaints related to telecommunications services and identify trends across time, companies, and complaint types.
+The goal was to uncover patterns in complaint types, geographic distribution, and time trends within the telecommunications industry.
 
-## Tools Used
-
-* Python
-* Pandas
-* Matplotlib
-* Seaborn
-* Jupyter Notebook
-
-## Project Objectives
-
-* Clean and prepare the FCC complaints dataset
-* Explore patterns in complaint types
-* Visualize complaint trends
-* Identify insights about consumer issues in telecommunications
-
-## Files in This Repository
-
-* `Mavaddat_EDA_Project_last.ipynb` – Jupyter Notebook containing the full analysis and visualizations
-* `EDA Report PDF.pdf` – Written report summarizing the findings
-* `cleaned_complaints.csv` – Cleaned dataset used in the analysis
+---
 
 ## Key Insights
 
-The exploratory analysis helps highlight the most common complaint categories and visualizes trends in consumer complaints within the telecommunications industry.
+- A small number of complaint categories make up the majority of total complaints  
+- Complaint volume is concentrated in specific states and regions  
+- Trends over time show consistent patterns rather than sharp seasonal drops  
+- Certain issues persist across multiple years, indicating ongoing customer pain points  
+
+---
+
+## Tools Used
+
+- Python  
+- Pandas  
+- Matplotlib  
+- Seaborn  
+- Jupyter Notebook  
+
+---
+
+## Project Objectives
+
+- Clean and preprocess real-world FCC complaint data  
+- Analyze complaint categories and distribution  
+- Visualize trends across time and geography  
+- Extract actionable insights from large datasets  
+
+---
+
+## Files in This Repository
+
+- `Mavaddat_EDA_Project_last.ipynb` – Full analysis and visualizations  
+- `EDA Report PDF.pdf` – Summary of findings  
+- `cleaned_complaints.csv` – Cleaned dataset  
+
+---
+
+## What I Learned
+
+- Working with messy, real-world datasets  
+- Data cleaning and transformation using Pandas  
+- Building clear and meaningful visualizations  
+- Communicating insights from data effectively  
